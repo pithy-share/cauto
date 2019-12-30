@@ -1,1 +1,1 @@
-[doc](https://zyongzhangyong.github.io/myproj/cauto/)
+Usage please see [cauto doc](https://zyongzhangyong.github.io/myproj/cauto/)
